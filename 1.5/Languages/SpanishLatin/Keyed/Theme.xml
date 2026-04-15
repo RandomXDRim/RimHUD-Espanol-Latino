@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RimHUD.Theme.RefreshRate>Tasa de refresco</RimHUD.Theme.RefreshRate>
+  <RimHUD.Theme.RefreshRateDesc>Qué tan seguido se actualizará el HUD. Aumenta este valor si experimentas caídas en la tasa de cuadros (FPS).</RimHUD.Theme.RefreshRateDesc>
+  <RimHUD.Theme.RefreshRateUnits>ms</RimHUD.Theme.RefreshRateUnits>
+
+  <RimHUD.Theme.InspectPane>Panel de inspección</RimHUD.Theme.InspectPane>
+  <RimHUD.Theme.InspectPaneDocked>Modo acoplado</RimHUD.Theme.InspectPaneDocked>
+  <RimHUD.Theme.InspectPaneDockedDesc>Acopla el HUD al panel de inspección.</RimHUD.Theme.InspectPaneDockedDesc>
+  <RimHUD.Theme.InspectPaneModify>Modificar</RimHUD.Theme.InspectPaneModify>
+  <RimHUD.Theme.InspectPaneModifyDesc>Esto es necesario para el modo acoplado.</RimHUD.Theme.InspectPaneModifyDesc>
+  <RimHUD.Theme.InspectPaneAddLog>Mostrar registro del personaje</RimHUD.Theme.InspectPaneAddLog>
+  <RimHUD.Theme.InspectPaneAddLogDesc>Llena el panel de inspección con el registro del personaje seleccionado. No disponible en modo acoplado.</RimHUD.Theme.InspectPaneAddLogDesc>
+  <RimHUD.Theme.InspectPaneHeight>Altura del panel</RimHUD.Theme.InspectPaneHeight>
+  <RimHUD.Theme.InspectPaneMinTabs>Pestañas mínimas</RimHUD.Theme.InspectPaneMinTabs>
+  <RimHUD.Theme.InspectPaneTabWidth>Ancho de pestaña</RimHUD.Theme.InspectPaneTabWidth>
+
+  <RimHUD.Theme.Floating>Modo flotante</RimHUD.Theme.Floating>
+  <RimHUD.Theme.FloatingAnchor>Anclaje</RimHUD.Theme.FloatingAnchor>
+  <RimHUD.Theme.FloatingAnchors>Superior Izquierda|Superior Centro|Superior Derecha|Centro Izquierda|Centro|Centro Derecha|Inferior Izquierda|Inferior Centro|Inferior Derecha</RimHUD.Theme.FloatingAnchors>
+  <RimHUD.Theme.FloatingOffsetX>X</RimHUD.Theme.FloatingOffsetX>
+  <RimHUD.Theme.FloatingOffsetY>Y</RimHUD.Theme.FloatingOffsetY>
+  <RimHUD.Theme.FloatingWidth>Ancho</RimHUD.Theme.FloatingWidth>
+  <RimHUD.Theme.FloatingHeight>Altura</RimHUD.Theme.FloatingHeight>
+
+  <RimHUD.Theme.TextStyle.Size>Tamaño</RimHUD.Theme.TextStyle.Size>
+  <RimHUD.Theme.TextStyle.Height>Altura de línea</RimHUD.Theme.TextStyle.Height>
+
+  <RimHUD.Theme.TextStyleRegular>Texto normal</RimHUD.Theme.TextStyleRegular>
+  <RimHUD.Theme.TextStyleLarge>Texto de encabezado</RimHUD.Theme.TextStyleLarge>
+  <RimHUD.Theme.TextStyleSmall>Texto de descripción</RimHUD.Theme.TextStyleSmall>
+
+  <RimHUD.Theme.LabelWidth>Ancho de etiqueta</RimHUD.Theme.LabelWidth>
+  <RimHUD.Theme.ValueWidth>Ancho de valor</RimHUD.Theme.ValueWidth>
+
+  <RimHUD.Theme.Miscellaneous>Misceláneo</RimHUD.Theme.Miscellaneous>
+
+  <RimHUD.Theme.ShowFactionIcon>Mostrar icono de facción</RimHUD.Theme.ShowFactionIcon>
+  <RimHUD.Theme.ShowIdeoligionIcon>Mostrar icono de ideoligión</RimHUD.Theme.ShowIdeoligionIcon>
+  <RimHUD.Theme.ShowDecimals>Mostrar decimales</RimHUD.Theme.ShowDecimals>
+
+  <RimHUD.Theme.LetterPadding>Espaciado de notificaciones</RimHUD.Theme.LetterPadding>
+  <RimHUD.Theme.LetterPaddingDesc>Cambia la distancia entre las notificaciones (cartas) que aparecen a la derecha de la pantalla. Vainilla: 12</RimHUD.Theme.LetterPaddingDesc>
+  <RimHUD.Theme.LetterCompress>Comprimir notificaciones</RimHUD.Theme.LetterCompress>
+  <RimHUD.Theme.LetterCompressDesc>Comprimirá las cartas y alertas a la derecha de la pantalla si se superponen con el HUD.</RimHUD.Theme.LetterCompressDesc>
+
+  <RimHUD.Theme.HudColors>Colores del HUD</RimHUD.Theme.HudColors>
+
+  <RimHUD.Theme.MainTextColor>Texto principal</RimHUD.Theme.MainTextColor>
+  <RimHUD.Theme.DisabledColor>Texto desactivado</RimHUD.Theme.DisabledColor>
+  <RimHUD.Theme.CriticalColor>Texto crítico</RimHUD.Theme.CriticalColor>
+  <RimHUD.Theme.WarningColor>Texto de advertencia</RimHUD.Theme.WarningColor>
+  <RimHUD.Theme.InfoColor>Texto de información</RimHUD.Theme.InfoColor>
+  <RimHUD.Theme.GoodColor>Texto de buen estado</RimHUD.Theme.GoodColor>
+  <RimHUD.Theme.ExcellentColor>Texto excelente</RimHUD.Theme.ExcellentColor>
+  <RimHUD.Theme.BarBackgroundColor>Fondo de barras</RimHUD.Theme.BarBackgroundColor>
+  <RimHUD.Theme.BarMainColor>Principal de barra</RimHUD.Theme.BarMainColor>
+  <RimHUD.Theme.BarLowColor>Barra baja</RimHUD.Theme.BarLowColor>
+  <RimHUD.Theme.BarThresholdColor>Umbral de barra</RimHUD.Theme.BarThresholdColor>
+  <RimHUD.Theme.SelectorBackgroundColor>Fondo del selector</RimHUD.Theme.SelectorBackgroundColor>
+  <RimHUD.Theme.SelectorTextColor>Texto del selector</RimHUD.Theme.SelectorTextColor>
+  <RimHUD.Theme.LineColor>Línea</RimHUD.Theme.LineColor>
+
+  <RimHUD.Theme.FactionColors>Colores de facción</RimHUD.Theme.FactionColors>
+  <RimHUD.Theme.FactionOwnColor>Propia</RimHUD.Theme.FactionOwnColor>
+  <RimHUD.Theme.FactionAlliedColor>Aliada</RimHUD.Theme.FactionAlliedColor>
+  <RimHUD.Theme.FactionIndependentColor>Independiente</RimHUD.Theme.FactionIndependentColor>
+  <RimHUD.Theme.FactionHostileColor>Hostil</RimHUD.Theme.FactionHostileColor>
+  <RimHUD.Theme.FactionWildColor>Salvaje</RimHUD.Theme.FactionWildColor>
+  <RimHUD.Theme.FactionPrisonerColor>Prisionero</RimHUD.Theme.FactionPrisonerColor>
+  <RimHUD.Theme.FactionSlaveColor>Esclavo</RimHUD.Theme.FactionSlaveColor>
+
+  <RimHUD.Theme.SkillColors>Colores de habilidades</RimHUD.Theme.SkillColors>
+  <RimHUD.Theme.SkillMinorPassionColor>Pasión menor</RimHUD.Theme.SkillMinorPassionColor>
+  <RimHUD.Theme.SkillMajorPassionColor>Pasión mayor</RimHUD.Theme.SkillMajorPassionColor>
+  <RimHUD.Theme.SkillSaturatedColor>Aprendizaje saturado</RimHUD.Theme.SkillSaturatedColor>
+  <RimHUD.Theme.SkillActiveColor>Activa actualmente</RimHUD.Theme.SkillActiveColor>
+</LanguageData>
